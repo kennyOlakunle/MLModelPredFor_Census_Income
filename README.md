@@ -1,4 +1,4 @@
-# Machine Learning prediction for Census Income Using different ML models
+# Machine Learning prediction for Census Income Using different ML models (Classification, Clustering, Neural Network)
 ## Objective
 In this exercise, we use the US Census dataset from the Census bureau (publicly available from UCI Machine Learning Repository). 
 The task is to predict whether a given adult makes more than $50,000 a year or not based on a number of attributes.
