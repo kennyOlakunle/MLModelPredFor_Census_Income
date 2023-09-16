@@ -12,7 +12,7 @@ and how the accuracies of the models can be compared after optimizations.
 4. Machine Learning Optimization using hyperparameter tuning method
 5. Hyperparameters selection
 6. Comparative analysis of ML models
-7. Presentation of result to stakeholders
+7. Presentation of results to stakeholders
 
 ## Libraries Used
 1. Pandas
