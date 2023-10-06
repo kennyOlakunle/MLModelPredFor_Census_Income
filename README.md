@@ -9,7 +9,7 @@ and how the accuracy of the models can be compared after optimizations.
 1. Data cleaning, Data Manipulation, Data Wrangling, Feature Engineering, One-hot encoding and Feature Selection
 2. Exploratory Data Analysis (Univariate, Bivariate, Multivariate Analysis, and Visualization).
 3. Statistical analyses
-4. Machine Learning Optimization using hyperparameter tuning method
+4. Machine Learning Optimization using different hyperparameter tuning method
 5. Hyperparameters selection
 6. Comparative analysis of ML models
 7. Presentation of results to stakeholders
