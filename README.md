@@ -5,6 +5,39 @@ The task is to predict whether a given adult makes more than $50,000 a year or n
 After prediction, models shoiuld be optimised, evaluated and are compared as: How optimisation improves the performance of the model? Which parameters were used for optimisation?
 and how the accuracy of the models can be compared after optimizations.
 
+# Dataset Variables
+
+The dataset has 14 column names as below:
+
+• age: the age of an individual 
+
+• workclass: employment status of an individual 
+
+• fnlwgt: final weight. In other words, this is the number of people the census believes the entry 
+represents
+
+• education: the highest level of education achieved by an individual
+
+• education-num: the highest level of education achieved in numerical form
+
+• marital-status: marital status of an individual. 
+
+• occupation: the general type of occupation of an individual 
+
+• relationship: represents what this individual is relative to others
+
+• sex: the biological sex of the individual 
+
+• capital-gain: capital gains for an individual 
+
+• capital-loss: capital loss for an individual 
+
+• hours-per-week: the hours an individual has reported to work per week 
+
+• native-country: country of origin for an individual 
+
+• label: whether or not an individual makes more than $50,000 annually.
+
 ## Skills and Tools Used
 1. Data cleaning, Data Manipulation, Data Wrangling, Feature Engineering, One-hot encoding and Feature Selection
 2. Exploratory Data Analysis (Univariate, Bivariate, Multivariate Analysis, and Visualization).
